@@ -1,2 +1,8 @@
 github.com/mohardianmaulana/go-say-hello v1.0.0 h1:0OvCRpigehldYeHMYdGL61l+o/LkrT2YGPGAcplR5Bc=
 github.com/mohardianmaulana/go-say-hello v1.0.0/go.mod h1:mrQqX0yzgovbumtWVVohTb3PsM2k30sCt2ca7k6eJtA=
+github.com/mohardianmaulana/go-say-hello v1.5.0 h1:OlznvKff+k+l450aSIhADAuSLKZMvtB2FtugupG9sBY=
+github.com/mohardianmaulana/go-say-hello v1.5.0/go.mod h1:mrQqX0yzgovbumtWVVohTb3PsM2k30sCt2ca7k6eJtA=
+github.com/mohardianmaulana/go-say-hello v1.6.0 h1:F/Pb9Wtk+K28BK6vXa9cE0pEIbRmuPX30nOAGt0ANiw=
+github.com/mohardianmaulana/go-say-hello v1.6.0/go.mod h1:mrQqX0yzgovbumtWVVohTb3PsM2k30sCt2ca7k6eJtA=
+github.com/mohardianmaulana/go-say-hello/v2 v2.0.0 h1:uuD8fBIMMHmu4/yszSn3XsAH60zVR2aNBioPvhW1gs8=
+github.com/mohardianmaulana/go-say-hello/v2 v2.0.0/go.mod h1:xHs4bThQvr1WRGt4vXGy07r8Mzb9oyR6/UYR2ych6Ww=
